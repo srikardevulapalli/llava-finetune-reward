@@ -1,4 +1,4 @@
-# 🚀 Fine-Tuning a Multimodal Reward Model on Web Screenshots
+# 🚀 Fine-Tuning a Multimodal Reward Model for Web Interactions
 
 This repository contains the complete code and documentation for building, fine-tuning, and testing a multimodal reward model from scratch. The model is designed to assess the quality of textual descriptions for given webpage screenshots, a foundational task for developing aligned AI web agents.
 
